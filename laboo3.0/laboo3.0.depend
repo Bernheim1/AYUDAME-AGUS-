@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1591201508 source:c:\users\santi\desktop\laboo3.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Camion_Chofer.h"
+	"Camion.h"
+	"Chofer.h"
+
+1591201594 c:\users\santi\desktop\laboo3.0\camion_chofer.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Camion.h"
+	"Chofer.h"
+
+1591201594 c:\users\santi\desktop\laboo3.0\camion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Camion_Chofer.h"
+	"Chofer.h"
+
+1591201594 c:\users\santi\desktop\laboo3.0\chofer.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Camion_Chofer.h"
+	"Camion.h"
+
